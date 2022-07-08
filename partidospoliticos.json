@@ -1,0 +1,25 @@
+[{
+	"partido": "Ciudadanos", 
+	"mediaAutoubicacion":6, 
+	"votantes":100
+},
+{
+	"partido": "PP",
+	"mediaAutoubicacion":8,
+	"votantes":1500
+},
+{
+	"partido": "PSOE", 
+	"mediaAutoubicacion":3, 
+	"votantes":1800
+},
+{
+	"partido": "Podemos",
+	"mediaAutoubicacion":1,
+	"votantes":300
+},
+{
+	"partido": "VOX", 
+	"mediaAutoubicacion":10, 
+	"votantes":500
+}]
